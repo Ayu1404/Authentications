@@ -19,7 +19,7 @@ Follow these instructions to run the project locally:
 ### **Prerequisites**
 Make sure you have the following installed:
 - Node.js
-- PostgreSQL (or any database you are using)
+- PostgreSQL
 
 ### **Installation**
 1. Clone the repository:
