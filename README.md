@@ -1,4 +1,4 @@
-# **Authentications**
+# **User-Authentication**
 
 A comprehensive project showcasing various authentication methods in web development. This project demonstrates how to implement secure and modern authentication techniques like OAuth, environment variables, salt hashing, and credential fetching to safeguard user data.
 
